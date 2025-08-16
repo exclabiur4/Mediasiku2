@@ -1,3 +1,6 @@
+Requirement:
+Node.js dan Vite
+
 Cara Menjalankan Project Vite
 
 1. Buka VS Code di folder proyek
